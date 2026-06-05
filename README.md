@@ -54,20 +54,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/isola513i">
-    <img src="https://github-readme-stats.vercel.app/api?username=isola513i&show_icons=true&hide=issues&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true" alt="isola513i's GitHub stats" />
-  </a>
-</p>
+[![isola513i's GitHub stats](https://github-readme-stats.vercel.app/api?username=isola513i&show_icons=true&hide=issues&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true)](https://github.com/isola513i)
 
-<p align="center">
-  <a href="https://github.com/isola513i/INTEGRATED-PROJECT01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isola513i&repo=INTEGRATED-PROJECT01&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" alt="INTEGRATED-PROJECT01" />
-  </a>
-  <a href="https://github.com/isola513i/Meez-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isola513i&repo=Meez-app&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en" alt="Meez-app" />
-  </a>
-</p>
+[![INTEGRATED-PROJECT01](https://github-readme-stats.vercel.app/api/pin/?username=isola513i&repo=INTEGRATED-PROJECT01&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en)](https://github.com/isola513i/INTEGRATED-PROJECT01)
+[![Meez-app](https://github-readme-stats.vercel.app/api/pin/?username=isola513i&repo=Meez-app&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en)](https://github.com/isola513i/Meez-app)
 
 ---
 
